@@ -11,7 +11,7 @@ with countries sustaining higher birth rates performing better economically over
 &nbsp;
 
 ## What the Data Revealed
-The results were more direct than anticipated. Fertility rate had a ignificant negative effect on GDP per capita growth. 
+The results were more direct than anticipated. Fertility rate had a significant negative effect on GDP per capita growth. 
 The increase in one unit fertility rate was associated with a 4.66% increase in GDP growth, after controlling for all country and year effects. 
 The relationship was more immediate and economically meaningful than expected.
 
@@ -67,7 +67,7 @@ is marked in red. By 1990 almost every country had already fallen below this thr
 
 ![](images/average_fertility_by_country.png)
 
-Only Ireland and Albania averaged above replacement level over the full period. 
+Albania comes closest to the replacement level, with every other country falling below the 2.1 threshold over the full period. 
 Ukraine and Poland sit at the bottom, averaging around 1.35 to 1.40, well below the level needed to sustain population without migration.
 
 &nbsp;
@@ -81,7 +81,7 @@ The extreme GDP outliers correspond to post-Soviet transition years and the 2009
 
 ![](images/correlation_heatmap.png)
 
-The raw correlation between fertility rate and GDP per capita growth is 0.09, weak at the surface level but expected given how much country 
+The raw correlation between fertility rate and GDP per capita growth is -0.14, weak at the surface level but expected given how much country 
 and time variation is present in the raw data. The fixed effects model strips this out and reveals the underlying relationship.
 
 &nbsp;
