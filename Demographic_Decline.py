@@ -71,6 +71,7 @@ print(f"Date range: {df_model['year'].min()} to {df_model['year'].max()}")
 print(f"Observations: {df_model.shape[0]}")
 print(f"Countries: {df_model['country'].nunique()}")
 
+
 # Chart 1: Fertility rate trends across all 30 countries
 # Shows the broad decline in birth rates relative to the 2.1 replacement threshold
 
