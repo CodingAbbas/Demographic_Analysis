@@ -1,7 +1,7 @@
 # Demographic Decline and Economic Growth Across Europe Using Panel Data Analysis
 
 ## Overview
-This project started as an econometric study during university.
+This project started as an econometric study from my time at university.
 It examines whether declining birth rates across Europe are negatively affecting economic growth, 
 using panel data across 30 European countries from 1990 to 2020.
 
